@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/postinfo/postinfo",
+    "pages/viewinfo/viewinfo"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#00bcd4",
+    "navigationBarTitleText": "暖湾鱼友圈",
+    "navigationBarTextStyle":"#fff"
+  }
+}

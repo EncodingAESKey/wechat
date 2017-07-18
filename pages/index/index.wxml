@@ -1,0 +1,6 @@
+<view class="container">
+    <map class="map" show-location id="map" controls="{{controls}}" bindcontroltap="handleControlTap" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}" bindmarkertap="handleMarkerTap" scale="15"/>
+</view>
+
+<view class="dock" bindtap="handlePostBtnClick">发布信息</view>
+
